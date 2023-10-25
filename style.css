@@ -1,0 +1,17 @@
+body{
+    background-color: lightpink;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+h1{
+    font-size: 2cm;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: rgb(77, 14, 29);
+    
+}
+table{
+    background-color: rgb(241, 218, 188);
+    color: rgb(61, 8, 34);
+    border: 1px;
+    border-color: antiquewhite;
+}
